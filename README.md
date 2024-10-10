@@ -1,6 +1,6 @@
 # Overview
 
-iperfis a common tool used to measure network bandwidth. This is my own version of this tool in
+iperf is a common tool used to measure network bandwidth. This is my own version of this tool in
 Java using sockets called ”Iperfer”. I will use the tools to measure the performance
 of virtual networks in Mininet and explain how link characteristics and multiplexing impact performance.
 
